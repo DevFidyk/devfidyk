@@ -11,7 +11,7 @@ This is the space where I spend most of my time where, imagination and creativit
 
 ![Fidyk GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFidyk&show_icons=true&theme=dracula)
 
-### Tecnologias que eu utilizo em meu dia a dia!
+### Technologies I use in my daily life!
 
 <div style="dislpay: inline_block"><br/>
   <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,9 +22,9 @@ This is the space where I spend most of my time where, imagination and creativit
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <div/><br/>
   
-  Amor por tecnologia, educação e por conseguir mudar minha vida através da programação.
+  Love for technology, education and for being able to change my life through programming.
   
-  ### Contato 
+  ### Contat
   e-mail: Daniel9fidyk@gmail.com
   
 
